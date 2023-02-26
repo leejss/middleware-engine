@@ -1,0 +1,18 @@
+{
+  "name": "middleware-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "leejss",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5",
+    "vitest": "^0.28.5"
+  }
+}
